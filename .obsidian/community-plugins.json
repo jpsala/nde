@@ -6,5 +6,7 @@
   "obsidian-imgur-plugin",
   "obsidian-better-command-palette",
   "obsidian-jira-issue",
-  "obsidian-react-components"
+  "obsidian-react-components",
+  "remotely-save",
+  "obsidian-git"
 ]
