@@ -8,5 +8,8 @@
   "obsidian-jira-issue",
   "obsidian-react-components",
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "heycalmdown-navigate-cursor-history",
+  "open-vscode",
+  "obsidian-editor-shortcuts"
 ]
