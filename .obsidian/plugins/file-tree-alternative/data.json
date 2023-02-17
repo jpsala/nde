@@ -1,7 +1,7 @@
 {
   "openViewOnStart": true,
   "ribbonIcon": true,
-  "showRootFolder": true,
+  "showRootFolder": false,
   "showFilesFromSubFolders": true,
   "searchFunction": true,
   "allSearchOnlyInFocusedFolder": false,
@@ -11,7 +11,7 @@
   "folderIcon": "default",
   "folderCount": true,
   "folderCountOption": "notes",
-  "evernoteView": "Horizontal",
+  "evernoteView": "Vertical",
   "filePreviewOnHover": false,
   "iconBeforeFileName": true,
   "sortFilesBy": "name",
