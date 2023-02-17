@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "test a",
-      "path": "test a/test a.md"
+      "basename": "Otra nota en test 1",
+      "path": "test a/Otra nota en test 1.md"
+    },
+    {
+      "basename": "test",
+      "path": "test.md"
     },
     {
       "basename": "context",
       "path": "test a/context.mdb"
+    },
+    {
+      "basename": "#test",
+      "path": "Context/#test.mdb"
+    },
+    {
+      "basename": "mmmm",
+      "path": "test a/mmmm.md"
+    },
+    {
+      "basename": "test a",
+      "path": "test a/test a.md"
     }
   ],
   "omittedPaths": [],
