@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test a/Otra nota en test 1.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -214,11 +214,11 @@
   },
   "active": "fe3032da1aadcaf6",
   "lastOpenFiles": [
+    "test a/Otra nota en test 1.md",
     "Context/#test.mdb",
     "test a/context.mdb",
     "test a/mmmm.md",
     "test a/test a.md",
-    "test a/Otra nota en test 1.md",
     "test.md",
     "test a/context 1.mdb",
     "Untitled 2.md",
