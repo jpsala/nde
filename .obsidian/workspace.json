@@ -21,11 +21,9 @@
             "id": "fe3032da1aadcaf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-mdb-viewer",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
-                "mode": "source",
-                "source": false
+                "file": "test a/context.mdb"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
+                "file": "test a/context.mdb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test a/Otra nota en test 1.md",
+                "file": "test a/context.mdb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test a/Otra nota en test 1.md"
+                "file": "test a/context.mdb"
               }
             }
           },
@@ -194,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +212,12 @@
   },
   "active": "fe3032da1aadcaf6",
   "lastOpenFiles": [
+    "test a/mmmm.md",
+    "test a/test a.md",
     "test a/Otra nota en test 1.md",
     "test.md",
     "test a/context.mdb",
     "Context/#test.mdb",
-    "test a/mmmm.md",
-    "test a/test a.md",
     "test a/context 1.mdb",
     "Untitled 2.md",
     "Untitled 1.md",
