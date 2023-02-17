@@ -32,12 +32,18 @@
     "test2": [],
     "test": [],
     "/": [
-      "/"
+      "/",
+      "test2 spacetest2 a"
     ],
     "Space 1": []
   },
   "expandedSpaces": [
-    "Space 1"
+    null,
+    "Space 1",
+    "Space 3",
+    "Space 2",
+    "/",
+    null
   ],
   "folderRank": {
     "node": "root",

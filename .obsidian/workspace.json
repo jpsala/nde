@@ -11,15 +11,26 @@
             "id": "17d36de1e806c830",
             "type": "leaf",
             "state": {
+              "type": "make-mdb-viewer",
+              "state": {
+                "file": "test a/context.mdb"
+              }
+            }
+          },
+          {
+            "id": "5a0c4d4c061201ba",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,6 +43,14 @@
         "id": "d2e9f16c1f57e385",
         "type": "tabs",
         "children": [
+          {
+            "id": "eb4242c8a76edbb1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
           {
             "id": "394b5a1f3fd33376",
             "type": "leaf",
@@ -66,20 +85,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f8f060716cff6772",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb4242c8a76edbb1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +97,7 @@
       {
         "id": "2c9b2fc319f8d09f",
         "type": "tabs",
+        "dimension": 56.77480916030534,
         "children": [
           {
             "id": "e9c1f582b84459f2",
@@ -99,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,20 +122,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c2673acffec6c34a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -139,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md"
               }
             }
           },
@@ -152,12 +147,29 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "fd33aed5fb7e0abc",
+        "type": "tabs",
+        "dimension": 43.225190839694655,
+        "children": [
+          {
+            "id": "c2673acffec6c34a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +184,17 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "17d36de1e806c830",
+  "active": "eb4242c8a76edbb1",
   "lastOpenFiles": [
+    "test a/context 1.mdb",
+    "test a/context.mdb",
     "Untitled 2.md",
-    "Untitled.md",
     "Untitled 1.md",
+    "README.md",
     "test2 a note.md",
+    "Untitled.md",
     "asdfasdfasdffolder into test2 spacetest2 a/test2 a note 2.md",
     "Context/#test.mdb",
-    "README.md",
     "conflict-files-obsidian-git.md"
   ]
 }
