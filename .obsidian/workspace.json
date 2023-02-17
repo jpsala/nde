@@ -21,9 +21,11 @@
             "id": "fe3032da1aadcaf6",
             "type": "leaf",
             "state": {
-              "type": "make-mdb-viewer",
+              "type": "markdown",
               "state": {
-                "file": "test a/context.mdb"
+                "file": "test a/Otra nota en test 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test a/context.mdb",
+                "file": "test a/Otra nota en test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test a/context.mdb",
+                "file": "test a/Otra nota en test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test a/context.mdb"
+                "file": "test a/Otra nota en test 1.md"
               }
             }
           },
@@ -196,28 +198,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "open-vscode:VSCode": false,
+      "remotely-save:Remotely Save": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": true,
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "394b5a1f3fd33376",
+  "active": "fe3032da1aadcaf6",
   "lastOpenFiles": [
+    "Context/#test.mdb",
+    "test a/context.mdb",
     "test a/mmmm.md",
     "test a/test a.md",
     "test a/Otra nota en test 1.md",
     "test.md",
-    "test a/context.mdb",
-    "Context/#test.mdb",
     "test a/context 1.mdb",
     "Untitled 2.md",
     "Untitled 1.md",
