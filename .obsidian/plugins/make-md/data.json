@@ -5,7 +5,7 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "saveAllContextToFrontmatter": true,
@@ -23,24 +23,21 @@
   "revealActiveFile": true,
   "spacesStickers": true,
   "spaceRowHeight": 29,
-  "spacesDisablePatch": false,
+  "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "test2": [
-      "test2 a"
+    "test2": [],
+    "test": [],
+    "/": [
+      "/"
     ],
-    "test": [
-      "test a"
-    ],
-    "/": []
+    "Space 1": []
   },
   "expandedSpaces": [
-    "/",
-    "test2",
-    "test"
+    "Space 1"
   ],
   "folderRank": {
     "node": "root",

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c60695a6e77b3c3d",
+        "id": "853b60bbbbf042ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f3eebabea027a7",
+            "id": "17d36de1e806c830",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "test a"
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -63,7 +64,13 @@
               "type": "starred",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f8f060716cff6772",
+        "type": "tabs",
+        "children": [
           {
             "id": "eb4242c8a76edbb1",
             "type": "leaf",
@@ -72,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 2.md"
+              }
             }
           },
           {
@@ -158,15 +168,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "eb4242c8a76edbb1",
+  "active": "17d36de1e806c830",
   "lastOpenFiles": [
-    "test2 a/test2 a note.md",
-    "test2 a/test2 a note 2.md",
-    "Untitled 1.md",
     "Untitled.md",
+    "test2 a note.md",
+    "asdfasdfasdffolder into test2 spacetest2 a/test2 a note 2.md",
+    "Context/#test.mdb",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "README.md",
     "conflict-files-obsidian-git.md"
   ]
 }
