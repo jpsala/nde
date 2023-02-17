@@ -11,26 +11,14 @@
             "id": "17d36de1e806c830",
             "type": "leaf",
             "state": {
-              "type": "make-mdb-viewer",
+              "type": "make-folder-view",
               "state": {
-                "file": "test a/context.mdb"
-              }
-            }
-          },
-          {
-            "id": "5a0c4d4c061201ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
-                "mode": "source",
-                "source": false
+                "type": "folder",
+                "folder": "test a"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,12 +71,29 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ae85dda234b77e02",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e137864ec9ef1c7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 447.5
   },
   "right": {
     "id": "8e21dee328a55e3b",
@@ -97,7 +102,7 @@
       {
         "id": "2c9b2fc319f8d09f",
         "type": "tabs",
-        "dimension": 56.77480916030534,
+        "dimension": 56.774809160305345,
         "children": [
           {
             "id": "e9c1f582b84459f2",
@@ -105,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test2 spacetest2 a/note 1 in Space 1 & 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,9 +146,17 @@
               "type": "QUICKSHARE_SIDE_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "13845ab7978ca34d",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "fd33aed5fb7e0abc",
@@ -169,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,20 +190,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "open-vscode:VSCode": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "eb4242c8a76edbb1",
+  "active": "17d36de1e806c830",
   "lastOpenFiles": [
-    "test a/context 1.mdb",
+    "test a/test a.md",
     "test a/context.mdb",
+    "test a/context 1.mdb",
     "Untitled 2.md",
     "Untitled 1.md",
     "README.md",
     "test2 a note.md",
     "Untitled.md",
     "asdfasdfasdffolder into test2 spacetest2 a/test2 a note 2.md",
-    "Context/#test.mdb",
-    "conflict-files-obsidian-git.md"
+    "Context/#test.mdb"
   ]
 }

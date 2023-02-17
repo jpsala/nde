@@ -12,5 +12,12 @@
   "heycalmdown-navigate-cursor-history",
   "open-vscode",
   "obsidian-editor-shortcuts",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "nldates-obsidian",
+  "tag-wrangler",
+  "recent-files-obsidian",
+  "file-tree-alternative",
+  "obsidian-languagetool-plugin"
 ]

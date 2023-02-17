@@ -32,8 +32,9 @@
     "test2": [],
     "test": [],
     "/": [
-      "/",
-      "test2 spacetest2 a"
+      "test2 spacetest2 a",
+      "test a",
+      "/"
     ],
     "Space 1": []
   },
