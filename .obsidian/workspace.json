@@ -11,8 +11,11 @@
             "id": "d8f3eebabea027a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "type": "folder",
+                "folder": "test a"
+              }
             }
           }
         ]
@@ -158,8 +161,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "d8f3eebabea027a7",
+  "active": "eb4242c8a76edbb1",
   "lastOpenFiles": [
+    "test2 a/test2 a note.md",
+    "test2 a/test2 a note 2.md",
+    "Untitled 1.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md"
   ]

@@ -8,9 +8,9 @@
   "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
-  "saveAllContextToFrontmatter": false,
+  "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
@@ -20,7 +20,7 @@
   "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
-  "revealActiveFile": false,
+  "revealActiveFile": true,
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
@@ -28,11 +28,19 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "test2": [
+      "test2 a"
+    ],
+    "test": [
+      "test a"
+    ],
+    "/": []
+  },
   "expandedSpaces": [
     "/",
-    null,
-    null
+    "test2",
+    "test"
   ],
   "folderRank": {
     "node": "root",
