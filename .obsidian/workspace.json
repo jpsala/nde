@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
       {
         "id": "2c9b2fc319f8d09f",
         "type": "tabs",
-        "dimension": 56.774809160305345,
+        "dimension": 56.77480916030535,
         "children": [
           {
             "id": "e9c1f582b84459f2",
@@ -177,7 +176,7 @@
       {
         "id": "fd33aed5fb7e0abc",
         "type": "tabs",
-        "dimension": 43.225190839694655,
+        "dimension": 43.22519083969465,
         "children": [
           {
             "id": "c2673acffec6c34a",
@@ -203,13 +202,7 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "open-vscode:VSCode": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": true,
-      "file-tree-alternative:File Tree Alternative Plugin": true
+      "command-palette:Open command palette": true
     }
   },
   "active": "fe3032da1aadcaf6",
