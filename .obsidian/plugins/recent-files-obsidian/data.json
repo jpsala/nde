@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "context",
+      "path": "test a/context.mdb"
+    },
+    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "#test",
       "path": "Context/#test.mdb"
-    },
-    {
-      "basename": "context",
-      "path": "test a/context.mdb"
     },
     {
       "basename": "mmmm",
