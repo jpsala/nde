@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Person/Galadriel Krump.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,6 +88,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "f2adbbf7db797db4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -111,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Person/Galadriel Krump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Person/Galadriel Krump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Person/Galadriel Krump.md"
               }
             }
           },
@@ -203,6 +211,10 @@
   },
   "active": "cc0537c1e6114488",
   "lastOpenFiles": [
+    "Person/Galadriel Krump.md",
+    "Person",
+    "Untitled 1.md",
+    "Untitled.md",
     "Untitled 2.md",
     "test a/Otra nota en test 1.md",
     "Context/#test.mdb",
@@ -211,7 +223,6 @@
     "test a/test a.md",
     "test.md",
     "test a/context 1.mdb",
-    "Untitled 1.md",
     "README.md"
   ]
 }
