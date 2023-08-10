@@ -33,14 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb4242c8a76edbb1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "394b5a1f3fd33376",
             "type": "leaf",
             "state": {
@@ -96,9 +88,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4a9bd2f070680938",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "4f409dd4f2552fbe",
+            "id": "700be02f79374905",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -225,7 +225,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4f409dd4f2552fbe",
+  "active": "700be02f79374905",
   "lastOpenFiles": [
     "Person/Galadriel Krump.md",
     "Person",

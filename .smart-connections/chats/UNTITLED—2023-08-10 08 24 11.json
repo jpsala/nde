@@ -1,0 +1,109 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "translate to spanish"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "translate to spanish"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "Translate what to Spanish? Please provide the text you would like to have translated."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "translate selected text to spanish"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "I apologize for the confusion. Please provide the text you would like to have translated into Spanish, and I will be happy to assist you."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "translate [[Galadriel Krump]] "
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "There is no specific translation for the name \"Galadriel Krump\" as it appears to be a proper name. Proper names are typically not translated as they are specific to a particular individual or character.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Galadriel Krump]]---\nBrowse through the icons below to find the one you need. The search field supports synonyms—for example, try searching for \"hamburger\" or \"logout.\"---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Summarize [[README]] "
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "The README note contains information about the NDE vault, which is related to NDE Research. It also includes a checklist with four items, but the last item is left blank. The note has a banner image with the URL provided.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[README]]---\n---\ntest: \"\"\nbanner: https://ircpeopledirectory-app-qa.azurewebsites.net/static/images/IRC_icon_square.jpg\n---\n# nde vault\nNDE Research!\n- [ ] uno\n- [ ] dos\n- [ ] tres\n- [ ] \n\t---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Summarize [[Galadriel Krump]] "
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "[[Galadriel Krump]] is a page that contains icons for various purposes. Users can browse through the icons to find the one they need. The search field supports synonyms, allowing users to search for icons using related terms. For example, searching for \"hamburger\" or \"logout\" will yield relevant results.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Galadriel Krump]]---\nBrowse through the icons below to find the one you need. The search field supports synonyms—for example, try searching for \"hamburger\" or \"logout.\"---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Summarize [[Galadriel Krump]] "
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "[[Galadriel Krump]] is a page that contains icons for various purposes. Users can browse through the icons to find the one they need. The search field supports synonyms, allowing users to search for icons using related terms. For example, searching for \"hamburger\" or \"logout\" will yield relevant results.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Galadriel Krump]]---\nBrowse through the icons below to find the one you need. The search field supports synonyms—for example, try searching for \"hamburger\" or \"logout.\"---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Summarize [[Galadriel Krump]] "
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "[[Galadriel Krump]] is a set of icons that can be browsed through to find the specific one needed. The search field supports synonyms, making it easier to find icons by searching for related terms. For example, searching for \"hamburger\" or \"logout\" will yield relevant results.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Galadriel Krump]]---\nBrowse through the icons below to find the one you need. The search field supports synonyms—for example, try searching for \"hamburger\" or \"logout.\"---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "summarize /Person"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "I'm sorry, but \"/Person\" is not specific enough for me to provide a summary. Could you please provide more context or clarify what you would like me to summarize?"
+    }
+  ]
+]
