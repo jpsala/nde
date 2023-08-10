@@ -167,9 +167,25 @@
               "type": "make-context-view",
               "state": {}
             }
+          },
+          {
+            "id": "6fca7bfa7eb65864",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f409dd4f2552fbe",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "fd33aed5fb7e0abc",
@@ -191,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +225,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cc0537c1e6114488",
+  "active": "4f409dd4f2552fbe",
   "lastOpenFiles": [
     "Person/Galadriel Krump.md",
     "Person",
