@@ -11,8 +11,12 @@
             "id": "cc0537c1e6114488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test a/context.mdb",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test a/context.mdb",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test a/context.mdb"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -197,8 +201,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ae85dda234b77e02",
+  "active": "cc0537c1e6114488",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "test a/Otra nota en test 1.md",
     "Context/#test.mdb",
     "test a/context.mdb",
@@ -206,7 +211,6 @@
     "test a/test a.md",
     "test.md",
     "test a/context 1.mdb",
-    "Untitled 2.md",
     "Untitled 1.md",
     "README.md"
   ]
