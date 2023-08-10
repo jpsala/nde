@@ -169,7 +169,7 @@
             }
           },
           {
-            "id": "6fca7bfa7eb65864",
+            "id": "8b99d9a8d5a3d743",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "700be02f79374905",
+            "id": "a76bd25809343a5a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -225,7 +225,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "700be02f79374905",
+  "active": "a76bd25809343a5a",
   "lastOpenFiles": [
     "Person/Galadriel Krump.md",
     "Person",

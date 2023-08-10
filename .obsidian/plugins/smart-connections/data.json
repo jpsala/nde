@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "",
   "folder_exclusions": "",
@@ -17,6 +17,9 @@
   "view_open": true,
   "version": "1.6.34",
   "failed_files": [
-    "Person/Galadriel Krump.md"
+    "Person/Galadriel Krump.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled.md"
   ]
 }
